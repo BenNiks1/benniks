@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bogdan Sychev</h1>
-<h3 align="center">Middle Frontend Developer from Ukraine, currently living in Georgia</h3>
+<h3 align="center">Frontend engineer from Ukraine, currently living in Georgia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=benniks1&label=Profile%20views&color=0e75b6&style=flat" alt="benniks1" /> </p>
 
